@@ -2,6 +2,8 @@
 
 This application employs RAG (Retrieval-Augmented Generation) methodology combined with the FLAN-T5 model from Hugging Face and Sinequa. Users can pose questions and receive detailed, context-aware answers sourced from the sinequa SBA App.
 
+\[!RAG\](assets/ragimage.png)
+
 ## **Why RAG?**
 
 ---
